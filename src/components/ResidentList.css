@@ -1,0 +1,20 @@
+/* src/components/ResidentList.css */
+.resident-list {
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+  }
+  
+  .resident-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .resident-list li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #555;
+    border-radius: 5px;
+  }
+  
